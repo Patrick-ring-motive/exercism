@@ -1,0 +1,1 @@
+export var hello=_=>'Hello, World!'
